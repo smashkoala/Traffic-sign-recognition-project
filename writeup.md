@@ -113,7 +113,11 @@ To train the model, I used the following optimizer and hyperparameters:
 My final model results were:
 * training set accuracy of 1.000
 * validation set accuracy of 0.958
-* test set accuracy of 0.935
+* test set accuracy of 0.935  
+
+The training set accuracy and the validation accuracy are calculated in the 15th cell of the Ipython notebook. The test set accuracy is calculated in the 17th cell of the notebook.
+
+
 
 If an iterative approach was chosen:
 * What was the first architecture that was tried and why was it chosen?  
